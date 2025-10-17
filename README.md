@@ -1,4 +1,11 @@
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=500&lines=Ethical+Hacker;Cybersecurity+Specialist;WordPress+0-Day+Hunter;Exploit+Writer" />
+<h1 align="center" style="font-size: 48px;">ByteHawkSec</h1>
+<h3 align="center"><code>Felix Müller</code> | Offensive Security Researcher | Exploit Developer | CVE Hunter</h3>
+
+<p align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=500&lines=Ethical+Hacker;Cybersecurity+Specialist;WordPress+0-Day+Hunter;Exploit+Writer" />
+</p>
+
  <p align="center"><i>"I was here before you noticed, and gone before you realized."</i></p>
 
  ## 🔻About Me
